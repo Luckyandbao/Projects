@@ -1,1 +1,0 @@
-# Hello, my name is Aaron, and I joined GitHub on October 17th, 2021. I'm very excited to start making programs on GitHub! I mainly go for Python, but occasionally, I might learn a new language and switch to that one for a while. That's all you need to know about me :)
